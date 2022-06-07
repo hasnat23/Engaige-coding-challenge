@@ -1,0 +1,9 @@
+For Vue you need to have Node environment set in your device
+- Install VUE flobally using following command line
+- npm i -g @vue/cli @vue/cli-service-global
+
+
+Go to project directory 
+- run: npm run serve
+
+Front end will run in : localhost:8080

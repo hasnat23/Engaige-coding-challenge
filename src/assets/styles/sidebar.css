@@ -1,0 +1,22 @@
+#barsd {
+    float: left;
+    width: 15%;
+    height: 100vh;
+    overflow-y: scroll;
+    background-color: #eee
+}
+
+.countries {
+    text-align: left;
+    cursor: pointer;
+    padding: 5px;
+    border-bottom: 0.01px solid rgb(230 228 228)
+}
+
+.active {
+    color: rgb(9 113 241)
+}
+
+.inactive {
+    color: #000
+}
