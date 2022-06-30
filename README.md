@@ -1,4 +1,4 @@
-# Engaige-coding-challenge
+# Vue.Js Dashboard by using Charts.js
 
 # Frontend
 
